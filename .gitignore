@@ -1,3 +1,4 @@
 llmblog/
 models/
 test_app.py
+blog_generation.ipynb
